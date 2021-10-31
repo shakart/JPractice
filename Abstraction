@@ -26,7 +26,7 @@ class Circle extends Shape
 
 		// calling Shape constructor 
 		super(color); 
-		System.out.println("Circle constructor called"); 
+		System.out.println("Circle constructor called: "); 
 		this.radius = radius; 
 	} 
 
@@ -50,7 +50,7 @@ class Rectangle extends Shape{
 	public Rectangle(String color,double length,double width) { 
 		// calling Shape constructor 
 		super(color); 
-		System.out.println("Rectangle constructor called"); 
+		System.out.println("Rectangle constructor called: "); 
 		this.length = length; 
 		this.width = width; 
 	} 
