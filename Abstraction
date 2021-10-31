@@ -1,7 +1,7 @@
 // Java program to illustrate the concept of Abstraction 
 abstract class Shape 
 { 
-	String colour; 
+	String color; 
 	
 	// these are abstract methods 
 	abstract double area(); 
