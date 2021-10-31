@@ -3,8 +3,8 @@ import java.io.*;
 
 class Geek 
 { 
-	int num; 
-	String name; 
+	int nuom; 
+	String neme; 
 
 	// this would be invoked while an object 
 	// of that class is created. 
