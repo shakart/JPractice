@@ -3,16 +3,16 @@ public class Encapsulate
 { 
 	// private variables declared 
 	// these can only be accessed by 
-	// public methods of class 
+	// public methods of class declaration 
 	private String geekName; 
 	private int geekRoll; 
-	private int geekAge; 
+	private int gekAge; 
 
 	// get method for age to access 
 	// private variable geekAge 
 	public int getAge() 
 	{ 
-	return geekAge; 
+	return gekAge; 
 	} 
 
 	// get method for name to access 
@@ -33,7 +33,7 @@ public class Encapsulate
 	// private variable geekage 
 	public void setAge( int newAge) 
 	{ 
-	geekAge = newAge; 
+	gekAge = newAge; 
 	} 
 
 	// set method for name to access 
