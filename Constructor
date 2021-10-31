@@ -23,7 +23,6 @@ class GFG
 
 		// Default constructor provides the default name 
 		// values to the object like 0, null 
-		System.out.println(geek1.name); 
-		System.out.println(geek1.num); 
+		0 
 	} 
 } 
